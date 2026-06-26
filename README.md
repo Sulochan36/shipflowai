@@ -9,3 +9,16 @@ Feature Request
 → AI Review
 → Approval
 → Ship
+
+## Current Progress
+
+- ✅ Better Auth
+- ✅ Prisma + Neon
+- ✅ GitHub OAuth
+- ✅ Workspace system
+- ✅ Project system
+- ✅ Repository system
+
+## Next Milestone
+
+Product Discovery
